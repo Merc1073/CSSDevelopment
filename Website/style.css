@@ -39,3 +39,21 @@ body
         {
             font-size: xx-small;
         }
+
+        #hOne
+        {
+            border-style: groove;
+            border-width: 5px;
+            border-color: rgb(0, 221, 255);
+            border-radius: 15px;
+        }
+
+        #hTwo
+        {
+            border-top-style: dotted;
+            border-bottom-style: double;
+            border-left-style: ridge;
+            border-right-style: outset;
+            border-width: 5px;
+            padding: 10px;
+        }
