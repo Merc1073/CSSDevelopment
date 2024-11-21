@@ -1,5 +1,6 @@
 body
         {
+            margin: 0px;
             background-image: url("Images/PurpleGalaxy.webp");
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -60,4 +61,26 @@ body
             border-right-style: outset;
             border-width: 5px;
             padding: 10px;
+        }
+
+        #box1
+        {
+            border: 5px solid;
+            width: 250px;
+            height: 250px;
+            font-size: 20px;
+            background: rgb(255, 65, 182);
+            margin-bottom: 50px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #box2
+        {
+            border: 5px solid;
+            width: 250px;
+            height: 250px;
+            font-size: 20px;
+            background: rgb(227, 65, 255);
+            margin-bottom: 50px;
         }
