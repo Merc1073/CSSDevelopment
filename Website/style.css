@@ -84,3 +84,29 @@ body
             background: rgb(227, 65, 255);
             margin-bottom: 50px;
         }
+
+        #box3
+        {
+            border: 1px solid;
+            height: 300px;
+            width: 300px;
+            background-color: skyblue;
+
+            position: fixed;
+
+            top: 50px;
+            left: 50px;
+        }
+
+        #box4
+        {
+            border: 1px solid;
+            height: 100px;
+            width: 100px;
+            background-color: red;
+
+            position: absolute;
+
+            top: 100px;
+            left: 100px;
+        }
