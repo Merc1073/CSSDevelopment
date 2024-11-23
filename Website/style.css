@@ -123,3 +123,49 @@ body
             top: 100px;
             left: 100px;
         }
+
+        a:link
+        {
+            color:red
+        }
+
+        a:visited
+        {
+            color:green
+        }
+
+        a:hover
+        {
+            color: aqua;
+        }
+
+        a:active
+        {
+            color: pink
+        }
+
+        button:hover
+        {
+            background-color:cyan
+        }
+
+        button:active
+        {
+            background-color:rgb(255, 179, 0)
+        }
+
+        li
+        {
+            color:white;
+            font-family: "Tomorrow", "consolas", "sans-serif";
+            font-style: italic;
+            font-weight: bold;
+            text-decoration: pink underline;
+            font-size: 28px;
+        }
+
+        li:nth-child(3n)
+        {
+            background-color: rgb(191, 255, 0);
+            color:rgb(247, 0, 255);
+        }
