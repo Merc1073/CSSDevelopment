@@ -175,3 +175,10 @@ body
             text-shadow: 2px 2px 10px lime;
             box-shadow: 5px 5px 5px lime;
         }
+
+        .fa-house
+        {
+            font-size: 50px;
+            color: white;
+            text-shadow: 2px 2px 10px lime;
+        }
